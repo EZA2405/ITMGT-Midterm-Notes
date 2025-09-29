@@ -1,0 +1,142 @@
+[
+  {
+    "customer_id": 501,
+    "store": "QuickEats",
+    "items": "BurgerTown Cheeseburger (x2); FizzBuzz Cola 500ml (x3)",
+    "total_price": 750,
+    "order_id": 201
+  },
+  {
+    "customer_id": 882,
+    "store": "HealthyBites",
+    "items": "GreenLeaf Salad 250g (x1); NutriBar ProteinBar (x2); FreshSip OrangeJuice 1L (x1)",
+    "total_price": 920,
+    "order_id": 202
+  },
+  {
+    "customer_id": 726,
+    "store": "QuickEats",
+    "items": "FizzBuzz Cola 500ml (x1); BurgerTown VeggieBurger (x2); SweetTreats Donut (x4)",
+    "total_price": 1190,
+    "order_id": 203
+  },
+  {
+    "customer_id": 310,
+    "store": "SnackStop",
+    "items": "ChocoLush Brownie (x3)",
+    "total_price": 300,
+    "order_id": 204
+  },
+  {
+    "customer_id": 945,
+    "store": "UrbanDeli",
+    "items": "BreadBarn Sourdough Loaf (x1); DairyDazzle Milk 1L (x2)",
+    "total_price": 520,
+    "order_id": 205
+  },
+  {
+    "customer_id": 1112,
+    "store": "GreenGrocer",
+    "items": "VeggieVale Carrots 500g (x2); FruitFusion Bananas 1kg (x1)",
+    "total_price": 430,
+    "order_id": 206
+  },
+  {
+    "customer_id": 1299,
+    "store": "MorningBuzz",
+    "items": "BrewBuddy Americano 350ml (x2); SweetTreats Muffin (x3)",
+    "total_price": 610,
+    "order_id": 207
+  },
+  {
+    "customer_id": 1415,
+    "store": "FreshHub",
+    "items": "CrunchMunch Chips 160g (x4)",
+    "total_price": 440,
+    "order_id": 208
+  },
+  {
+    "customer_id": 1530,
+    "store": "DinerDash",
+    "items": "BurgerTown ChickenBurger (x2); FizzBuzz Cola 330ml (x2); AquaPure Water 500ml (x2)",
+    "total_price": 680,
+    "order_id": 209
+  },
+  {
+    "customer_id": 1644,
+    "store": "CafeCorner",
+    "items": "FreshSip AppleJuice 1L (x1); BreadBarn Croissant (x4)",
+    "total_price": 540,
+    "order_id": 210
+  },
+  {
+    "customer_id": 1759,
+    "store": "BentoBox",
+    "items": "BentoBuddy TeriyakiChicken (x2); RiceRight JasmineRice 2kg (x1)",
+    "total_price": 790,
+    "order_id": 211
+  },
+  {
+    "customer_id": 1873,
+    "store": "PastaPlace",
+    "items": "PastaPal Spaghetti 500g (x2); DeliFresh MarinaraSauce 680g (x1)",
+    "total_price": 665,
+    "order_id": 212
+  },
+  {
+    "customer_id": 1988,
+    "store": "JuiceJoint",
+    "items": "JuiceJive GreenJuice 500ml (x2); FruitFusion MixedBerries 250g (x2)",
+    "total_price": 720,
+    "order_id": 213
+  },
+  {
+    "customer_id": 2102,
+    "store": "VeggieVille",
+    "items": "GreenLeaf Kale 250g (x3); SaladSmart CaesarDressing 250ml (x1)",
+    "total_price": 560,
+    "order_id": 214
+  },
+  {
+    "customer_id": 2217,
+    "store": "BurgerBarn",
+    "items": "BurgerTown DoublePatty (x1); FizzBuzz Zero 330ml (x1); CrunchMunch Fries 150g (x2)",
+    "total_price": 590,
+    "order_id": 215
+  },
+  {
+    "customer_id": 2331,
+    "store": "SweetSpot",
+    "items": "SweetTreats Donut (x6); ChocoLush Cookie (x4)",
+    "total_price": 880,
+    "order_id": 216
+  },
+  {
+    "customer_id": 2446,
+    "store": "MarketMetro",
+    "items": "ProteinPlus Whey 1kg (x1); FreshSip CoconutWater 1L (x2)",
+    "total_price": 1550,
+    "order_id": 217
+  },
+  {
+    "customer_id": 2560,
+    "store": "NoodleHouse",
+    "items": "NoodleNest RamenPack 120g (x5); AquaPure Water 500ml (x3)",
+    "total_price": 740,
+    "order_id": 218
+  },
+  {
+    "customer_id": 2675,
+    "store": "WrapWorks",
+    "items": "WrapWorks ChickenWrap (x2); FreshSip OrangeJuice 350ml (x2)",
+    "total_price": 710,
+    "order_id": 219
+  },
+  {
+    "customer_id": 2789,
+    "store": "TacoTopia",
+    "items": "TacoTopia BeefTaco (x3); AquaPure Sparkling 330ml (x2); JuiceJive Lemonade 500ml (x1)",
+    "total_price": 860,
+    "order_id": 220
+  }
+]
